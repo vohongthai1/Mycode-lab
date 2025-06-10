@@ -1,0 +1,7 @@
+L001, Nguyen Van An, 0965333901, An@gmail.com, 10/8/1993, true, 7000, 10
+K001, Dang Thi Mai, 012345678, Mai@gmai.com, 19/12/1990, false, 8000, 15
+L002, Nguyen Van Bao, 0965123456, Ba@gmail.com, 20/2/1990, true, 9000, 8
+K002, Tran Minh Hai, 0333444556, Hai@gmail.com, 20/1/1989, true, 9500, 20
+L003, Phan Thi Be, 0965333401, Be@gmail.com, 15/7/1992, false, 10000, 6
+K003, Hoang Bao Quang, 0353954701, Quang@gmail.com, 17/5/1999, true, 9000, 13
+L004, Tran Anh Tuyet, 0965295167, Tuyet@gmail.com, 7/10/2000, false, 6000, 5
