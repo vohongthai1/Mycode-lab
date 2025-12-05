@@ -50,9 +50,7 @@ src/
 - Định dạng dữ liệu: `mã, tên, sdt, email, ngày sinh, giới tính, lương cơ bản, thông tin riêng`
 
 ## Tác giả
-- Họ tên: [Tên của bạn]
-- Mã sinh viên: [Mã sinh viên]
-- Lớp: [Lớp học]
+- Họ tên: Võ Hồng Thái
 
 ## Yêu cầu hệ thống
 - JDK 8 trở lên
